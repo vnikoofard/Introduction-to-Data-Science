@@ -26,12 +26,14 @@ marp: true
 
 
 ---
+
 # Exemplo: O Furacão Frances
 
 
 Em 2004, em Florida nos EUA, foi avisado  que o furacão está chegando. A rede Wal-Mart acionou o time de cientistas de dados para estudar os **dados historicos** para construir um modelo preditivo para prever os itens que serão mais demandados nos proximos dias.
 
 ---
+
 ## Exemplo: Prevendo a Rotatividade de Cliente (Churn)
 
 O mercado de telefonia celular está muito saturado e a concorrencia é alta. As empresas tem uma batalha entre se para atrair os clientes das concorrencias. Aí, uma empresa tem que investir em campanhas e propagandas para atrair um cliente de outra empresa.  Agora o desafio do time de cientista de dados é, usando os **dados historicos** da empresa, selecionar um grupo de pessoas e montar uma oferta interessante para atrair eles a assinarem um contrato. 
