@@ -1,4 +1,4 @@
-# Introdução a Ciência de Dados
+# Introdução à Ciência de Dados
 
 ___
 
